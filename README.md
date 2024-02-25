@@ -1,7 +1,7 @@
 # Integrantes: Elian Moreira, Erick Santillan, Pablo Uchuari
 
 ## Descripción del Juego
-El juego consiste en saltar obstáculos. Se puede realizar el salto tocando la pantalla o inclinando el teléfono ebido al uso del acelerómetro.
+El juego consiste en saltar obstáculos. Se puede realizar el salto tocando la pantalla o inclinando el teléfono debido al uso del acelerómetro.
 
 ## Pantalla de inicio
 ![Pantalla de inicio](https://github.com/Elian027/GameLibgdx/assets/117754199/ab141e79-527a-44d4-9875-921875226b9d)
